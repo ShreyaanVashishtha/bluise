@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Shreyaan.co - Shreyaan Vashishtha",
+  "shortName": "Shreyaan.co",
+  "description": "You’ve arrived at this page because you typed or linked to “shreyaan.co”, Shreyaan’s official URL shortcut just for Shreyaan's websites.\n\nWhenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.",
+  "themeColor": "#007bff",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
