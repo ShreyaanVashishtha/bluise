@@ -1,10 +1,10 @@
 {
-  "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
+  "title": "Shreyaan.co - Shreyaan Vashishtha",
+  "titleTemplate": "Shreyaan.co - Shreyaan Vashishtha",
+  "welcomeText": "# Shreyaan.co\n\n### You’ve arrived at this page because you typed or linked to “shreyaan.co”, Shreyaan’s official URL shortcut just for Shreyaan's websites.\n\n### Whenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.",
+  "logo": "/images/uploads/logo.png",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "loadingColor": "#007bff",
+  "seoDescription": "You’ve arrived at this page because you typed or linked to “shreyaan.co”, Shreyaan’s official URL shortcut just for Shreyaan's websites.\n\nWhenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.",
   "seoMetaImage": ""
 }
