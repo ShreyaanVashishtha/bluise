@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://yt3.ggpht.com/a/AATXAJydUgMmlZuOsWyMUsdhaQ5HaMkfFiUVGkOBnQ=s900-c-k-c0xffffffff-no-rj-mo"
         />
       </div>
     </div>
